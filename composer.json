@@ -1,0 +1,22 @@
+{
+    "name": "thomas/blog-dev2",
+    "authors": [
+        {
+            "name": "thomasRegnier",
+            "email": "thomas.regnier3001@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.26",
+        "erusev/parsedown": "^1.7",
+        "fzaninotto/faker": "^1.8",
+        "filp/whoops": "^2.5",
+        "league/csv": "^9.4",
+        "mailgun/mailgun-php": "^3.0",
+        "php-http/guzzle6-adapter": "^2.0",
+        "php-http/message": "^1.8",
+        "guzzlehttp/guzzle": "~6.0",
+        "kriswallsmith/buzz": "^1.0",
+        "nyholm/psr7": "^1.2"
+    }
+}
